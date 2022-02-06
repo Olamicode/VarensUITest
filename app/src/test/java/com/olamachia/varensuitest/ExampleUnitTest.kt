@@ -1,4 +1,4 @@
-package com.decagonhq.varensuitest
+package com.olamachia.varensuitest
 
 import org.junit.Test
 

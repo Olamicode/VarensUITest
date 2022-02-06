@@ -7,5 +7,25 @@
     <string name="wallet_str">Wallet</string>
     <string name="profile">Profile</string>
     <string name="bullet">•</string>
+    <string name="dummy_amount_str">123,342.62</string>
+    <string name="currency_usd_str">USD</string>
+    <string name="dummy_percentage_str">+8.1%</string>
+    <string name="dummy_amount_with_dollar_str">$120,234.21</string>
+    <string name="dummy_btc_str">BTC</string>
+    <string name="dummy_32_percent_str">-1.32%</string>
+    <string name="change_str">Change</string>
+    <string name="sell_str">Sell</string>
+    <string name="buy_str">Buy</string>
+    <string name="about_str">About</string>
+    <string name="dummy_str">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis!</string>
+    <string name="market_stats_str">Market Stats</string>
+    <string name="convert_to_str">Convert to</string>
+    <string name="dummy_2_73_btc">2.73 BTC</string>
+    <string name="exchange_str">Exchange</string>
+    <string name="twenty_four_hour">24H</string>
+    <string name="one_week">1W</string>
+    <string name="one_month">1M</string>
+    <string name="one_year">1Y</string>
+    <string name="all">ALL</string>
 
 </resources>

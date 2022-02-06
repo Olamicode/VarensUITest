@@ -3,16 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ghost_gray_background.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/grey_backgroud.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/grey_background.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/grey_stroke_background.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/home.xml" value="0.41333333333333333" />
         <entry key="app/src/main/res/drawable/profile_circle.xml" value="0.24635416666666668" />
         <entry key="app/src/main/res/drawable/status_up.xml" value="0.41333333333333333" />
         <entry key="app/src/main/res/drawable/wallet.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/drawable/white_background.xml" value="0.321025641025641" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.38958333333333334" />
+        <entry key="app/src/main/res/layout/convert_currency_item.xml" value="0.42816168001024796" />
+        <entry key="app/src/main/res/layout/fragment_dialog_sheet_bottom_convert.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_exchange.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_trading.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_wallet.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/market_stat_item.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.4036458333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

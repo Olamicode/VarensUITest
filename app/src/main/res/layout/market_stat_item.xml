@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="@color/ghost_gray"
+    android:padding="@dimen/dimen_16dp"
+    android:weightSum="1"
+    >
+
+    <ImageView
+        android:id="@+id/icon_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/presention_chart"
+        android:layout_marginEnd="@dimen/dimen_8dp"
+        />
+
+    <TextView
+        android:id="@+id/title_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Market Cap"
+        android:layout_weight=".7"
+        android:textColor="@color/secondary_black"
+        />
+    <TextView
+        android:id="@+id/content_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="41,228.00 BTC"
+        android:textStyle="bold"
+        android:textColor="@color/extra_dark_gray"
+        android:layout_weight=".2"
+        android:textAlignment="textEnd"
+        />
+
+</LinearLayout>
