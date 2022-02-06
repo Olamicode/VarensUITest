@@ -188,8 +188,9 @@
                 android:layout_marginEnd="@dimen/dimen_16dp"
                 android:text="@string/change_str"
                 android:textAllCaps="false"
-                android:textColor="@color/blue"
+                android:textColor="@color/dark_blue"
                 android:textSize="@dimen/dimen_10sp"
+                app:strokeColor="@color/secondary_gray"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />

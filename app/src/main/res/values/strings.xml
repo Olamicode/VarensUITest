@@ -27,5 +27,6 @@
     <string name="one_month">1M</string>
     <string name="one_year">1Y</string>
     <string name="all">ALL</string>
+    <string name="page_is_under_construction_str">Page is under construction</string>
 
 </resources>

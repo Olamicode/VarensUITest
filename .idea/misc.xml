@@ -16,10 +16,10 @@
         <entry key="app/src/main/res/layout/convert_currency_item.xml" value="0.42816168001024796" />
         <entry key="app/src/main/res/layout/fragment_dialog_sheet_bottom_convert.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_exchange.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_trading.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/fragment_wallet.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_wallet.xml" value="0.375" />
         <entry key="app/src/main/res/layout/market_stat_item.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.4036458333333333" />
       </map>

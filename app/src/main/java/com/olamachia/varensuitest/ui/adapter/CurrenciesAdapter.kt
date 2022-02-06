@@ -5,6 +5,7 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.olamachia.varensuitest.model.Currency
+import com.olamachia.varensuitest.utils.CurrencyType
 import com.olamachia.varensuitest.utils.drawLineChart
 import com.olamachia.varensuitest.utils.provideRandomData
 import olamachia.varensuitest.R
@@ -32,6 +33,20 @@ class CurrenciesAdapter(
                         R.drawable.white_background
                     else R.drawable.ghost_gray_background
                 )
+
+                when (currency.getCurrentType()) {
+                    CurrencyType.BTC -> currencyTextView
+                        .setTextColor(ContextCompat.getColor(root.context, R.color.brown))
+                    CurrencyType.ETH -> currencyTextView
+                        .setTextColor(ContextCompat.getColor(root.context, R.color.eth_black))
+                    CurrencyType.XRP -> currencyTextView
+                        .setTextColor(ContextCompat.getColor(root.context, R.color.xrp_blue))
+                    CurrencyType.LTC -> currencyTextView
+                        .setTextColor(ContextCompat.getColor(root.context, R.color.eth_black))
+                    CurrencyType.DEFAULT -> currencyTextView
+                        .setTextColor(ContextCompat.getColor(root.context, R.color.brown))
+                }
+
                 currencyImageView.setImageResource(currency.icon)
                 lineChart.drawLineChart(root.context, currency.getCurrentType(),
                     provideRandomData(), adapterPosition)

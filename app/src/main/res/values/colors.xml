@@ -16,8 +16,10 @@
     <color name="light_green">#59C88A</color>
     <color name="ghost_gray">#F9FAFF</color>
     <color name="blue">#5149F7</color>
+    <color name="dark_blue">#4941F2</color>
     <color name="xrp_blue">#1276A7</color>
     <color name="secondary_black">#292D32</color>
     <color name="eth_black">#54575B</color>
     <color name="extra_dark_gray">#7C7F84</color>
+    <color name="secondary_gray">#D3D3D4</color>
 </resources>
